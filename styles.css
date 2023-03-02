@@ -1,0 +1,147 @@
+/* Feel free to change any of the styling below!*/
+.option-one-screen {
+    display: none;
+}
+
+.option-two-screen {
+    display: none;
+}
+
+.option-one-end {
+    display: none;
+}
+
+.eating {
+    display: none;
+}
+
+.eatingOne {
+    display: none;
+}
+
+.option-two-end {
+    display: none;
+}
+
+.option-one-screentwo {
+    display: none;
+}
+
+.option-Three {
+    display: none;
+
+}
+
+.option-one-screenthree {
+    display: none;
+}
+
+.option-four {
+    display: none;
+
+}
+
+body {
+    text-align: center;
+
+}
+
+.option-ball {
+    display: none;
+}
+
+img {
+    width: 600px;
+
+}
+
+.think {
+    display: none;
+}
+
+.option-ballyes {
+    display: none;
+}
+
+.option-ballno {
+    display: none;
+}
+
+.title {
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+
+}
+
+.optionone-end {
+    display: none;
+}
+
+button {
+    height: 40px;
+}
+
+.option-ballyes {
+    height: 40px;
+    justify-content: center;
+}
+
+.option-ballno {
+    height: 40px;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 50px;
+    color: black;
+
+}
+
+/* When someone enters your game, you only want them to see the opening and the option buttons. The code below will use the display property to hide certain parts of the story. Remove the comments from the code below when you're ready for that step!*/
+
+/* 
+.story-opening{
+   display:none;
+}
+*/
+
+/* 
+.buttons{
+   display:none;
+}
+*/
+
+/* 
+.open-one-screen{
+   display:none;
+}
+*/
+
+/* 
+.open-two-screen{
+   display:none;
+}
+*/
+
+/* 
+.open-one-end{
+   display:none;
+}
+*/
+
+/* 
+.open-two-end{
+   display:none;
+}
+*/
